@@ -73,6 +73,7 @@
                     { text: "qty", value: "qty" },
                     { text: "address", value: "address" },
                     { text: "status", value: "status" },
+                    { text: "userGrade", value: "userGrade" },
                 ],
             order : [],
             newValue: {},
@@ -96,6 +97,7 @@
                 'qty': 0,
                 'address': '',
                 'status': '',
+                'userGrade': '',
             }
         },
         methods: {

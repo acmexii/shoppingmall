@@ -74,6 +74,7 @@
                 'qty': 0,
                 'address': '',
                 'status': '',
+                'userGrade': '',
             }
         },
         methods:{
